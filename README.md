@@ -1,9 +1,9 @@
 # QuizEmsDocs
-Group # 4
+**Group # 4**
 
-The Hitchhikers
+**The Hitchhikers**
 
-SWE 6783 User Interactions
+**SWE 6783 User Interactions**
 
 **Project Title:** QuizEms
 
@@ -21,4 +21,4 @@ pages to avoid confusion for their students. QuizEms is a website that allows pr
 practice quiz, which then can be shared via an invite link. The students then can take the quiz
 anonymously and the professor can re-use this practice quiz/test for future classes. 
 
-**Source Code:**
+**Source Code:** https://github.com/clincol2/UISummerProject
