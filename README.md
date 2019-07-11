@@ -28,7 +28,7 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 2) IRB Application: https://github.com/clincol2/QuizEmsDocs/blob/master/IRB_Application_Form_ChloeLincoln_PhillipDaCosta.pdf
 
 **Deliverable # 2:**
-1) Document:
+1) Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20DaCosta%20UI%20Deliverable%202.pdf
 
 **Deliverable # 3:**
 1) Document:
