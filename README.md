@@ -22,3 +22,25 @@ practice quiz, which then can be shared via an invite link. The students then ca
 anonymously and the professor can re-use this practice quiz/test for future classes. 
 
 **Source Code:** https://github.com/clincol2/UISummerProject
+
+**Deliverable # 1:**
+1) Document:
+2) IRB Application:
+
+**Deliverable # 2:**
+1) Document:
+
+**Deliverable # 3:**
+1) Document:
+2) Link to Sketches:
+
+**Deliverable # 4:**
+1) Document:
+2) Link to Paper Prototype:
+3) Link to Computer Prototype:
+4) Link to Implementation(?):
+
+**Final Document and Presentation:**
+1) Document:
+2) Link to Video:
+
