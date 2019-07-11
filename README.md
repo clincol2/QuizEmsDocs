@@ -24,7 +24,7 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 **Source Code:** https://github.com/clincol2/UISummerProject
 
 **Deliverable # 1:**
-1) Document:
+1) Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20DaCosta%20UI%20Deliverable%201.pdf
 2) IRB Application:
 
 **Deliverable # 2:**
