@@ -31,14 +31,14 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 1) Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20DaCosta%20UI%20Deliverable%202.pdf
 
 **Deliverable # 3:**
-1) Document:
-2) Link to Sketches:
+1) Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20DaCosta%20Deliverable%203.pdf
+2) Link to Sketches: https://drive.google.com/drive/folders/1WFAjS2Ulj3UNbbbmRmfNDqyBiqw-ZhA4?usp=sharing
 
 **Deliverable # 4:**
 1) Document:
 2) Link to Paper Prototype:
-3) Link to Computer Prototype:
-4) Link to Implementation(?):
+3) Link to Computer Prototype Video:
+4) Link to Implementation:
 
 **Final Document and Presentation:**
 1) Document:
