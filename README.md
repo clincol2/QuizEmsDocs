@@ -1,10 +1,16 @@
 # QuizEmsDocs
 Group # 4
+
 The Hitchhikers
+
 SWE 6783 User Interactions
+
 **Project Title:** QuizEms
+
 **Project Tagline:** The easy solution to practice quizzes and tests!
+
 **Team Members:** Chloe Lincoln, Phillip DaCosta
+
 **Project Description:**
 The purpose of our application QuizEms is to provide an easy method of creating practice
 quizzes and tests that the professors can share with their students. While most Universities have a
