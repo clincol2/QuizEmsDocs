@@ -36,9 +36,9 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 
 **Deliverable # 4:**
 1) Document:
-2) Link to Paper Prototype:
-3) Link to Computer Prototype Video:
-4) Link to Implementation:
+2) Link to Paper Prototype: https://xd.adobe.com/view/964b5b67-0bb5-410a-741c-2efe04e47beb-e07a/
+3) Link to Computer Prototype Video: https://drive.google.com/drive/folders/1CFqyPfbJixZ1AMTux_UaCFvkU70eUgJ0?usp=sharing
+4) Link to Implementation: https://quizemsnew.firebaseapp.com/#/
 
 **Final Document and Presentation:**
 1) Document:
