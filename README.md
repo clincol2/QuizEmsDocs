@@ -35,12 +35,15 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 2) Link to Sketches: https://drive.google.com/drive/folders/1WFAjS2Ulj3UNbbbmRmfNDqyBiqw-ZhA4?usp=sharing
 
 **Deliverable # 4:**
-1) Document:
+1) Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20DaCosta%20UI%20Deliverable%204%20.pdf
 2) Link to Paper Prototype: https://xd.adobe.com/view/964b5b67-0bb5-410a-741c-2efe04e47beb-e07a/
 3) Link to Computer Prototype Video: https://drive.google.com/drive/folders/1CFqyPfbJixZ1AMTux_UaCFvkU70eUgJ0?usp=sharing
 4) Link to Implementation: https://quizemsnew.firebaseapp.com/#/
 
 **Final Document and Presentation:**
-1) Document:
-2) Link to Video:
+1) Final Group Document:
+2) Final Document (Chloe):
+3) Final Document (Phillip):
+4) Link to Video:
+
 
