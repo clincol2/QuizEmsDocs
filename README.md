@@ -41,7 +41,7 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 4) Link to Implementation: https://quizemsnew.firebaseapp.com/#/
 
 **Final Document and Presentation:**
-1) Final Group Document:
+1) Final Group Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20Dacosta%20UI%20Final%20Document.pdf
 2) Final Document (Chloe):
 3) Final Document (Phillip):
 4) Link to Video:
