@@ -44,6 +44,6 @@ anonymously and the professor can re-use this practice quiz/test for future clas
 1) Final Group Document: https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20Phillip%20Dacosta%20UI%20Final%20Document.pdf
 2) Final Document (Chloe): https://github.com/clincol2/QuizEmsDocs/blob/master/Chloe%20Lincoln%20UI%20Final%20Individual%20Document.pdf
 3) Final Document (Phillip):
-4) Link to Video:
+4) Link to Video: https://drive.google.com/drive/folders/1YaqU4QLuZdXuSizrxFdUddDqiismqDGv
 
 
